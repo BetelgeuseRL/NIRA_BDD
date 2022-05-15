@@ -1,5 +1,5 @@
 {
-	"ansiedad": {
+	"Ansiedad": {
 		"prompts": [
 			[
 				"De forma resumida, es el sentimiento recurrente de gran preocupación que pueden sentir algunas personas debido a las situaciones que se les presentan día a día. ",
@@ -33,7 +33,7 @@
 		}
 	},
 
-	"sexualidad": {
+	"Sexualidad": {
 		"prompts": [
 			[
 				"Un tema muy relevante para nuestra vida, sobre el cual debemos aprender es la sexualidad.",
@@ -67,7 +67,7 @@
 		}
 	},
 
-	"depresion": {
+	"Depresión": {
 		"prompts": [
 			[
 				"Primero, debes saber que existen algunos tipos diferentes de depresión, los cuales se presentan en nuestra vida por diversas razones.",
@@ -93,7 +93,7 @@
 		}
 	},
 
-	"vida": {
+	"Estilo de vida": {
 		"prompts": [
 			[
 				"Adoptar un estilo de vida saludable puede cambiar las emociones que experimentamos diariamente, yo te puedo ayudar dándote información al respecto",
@@ -127,7 +127,7 @@
 		]
 	},
 
-	"social": {
+	"Vida Social": {
 		"prompts": [
 			[
 				"Quisiera comenzar haciéndote una pregunta, ¿qué tan satisfecho estás en este momento de tu vida con tus relaciones sociales?"
