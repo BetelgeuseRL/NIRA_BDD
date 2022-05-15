@@ -1,5 +1,5 @@
 {
-	"ansiedad": {
+	"Ansiedad": {
 		"prompts": [
 			[
 				"De forma resumida, es el sentimiento recurrente de gran preocupación que pueden sentir algunas personas debido a las situaciones que se les presentan día a día. ",
@@ -33,19 +33,16 @@
 		}
 	},
 
-	"sexualidad": {
+	"Sexualidad": {
 		"prompts": [
 			[
 				"Un tema muy relevante para nuestra vida, sobre el cual debemos aprender es la sexualidad.",
 				"Entender cómo funcionan nuestros cuerpos puede prevenir consecuencias indeseadas y evitar enfermedades.",
-				"¿Que te gustaría aprender esta vez?",
-				"1. ¿Que hacer si soy sexualmente activo?",
-				"2. ¿Que peligros existen relacionados a la actividad sexual, donde puedo aprender de este tema?",
-				"3. ¿Donde puedo solicitar una asesoría personalizada sobre algun tema de sexualidad?"
+				"¿Que te gustaría aprender esta vez?"
 			]
 		],
 		"extras": {
-			"1": [
+			"¿Que hacer si soy sexualmente activo?": [
 				"Según un artículo publicado en la web de MedicalNewsToday, algunos consejos para quienes son sexualmente activos y quieren mejora su salud sexual son:",
 				"1. Hacer mas ejercicio",
 				"2. Intentar algo nuevo",
@@ -53,12 +50,12 @@
 				"4. Mantener una comunicación abierta con tu pareja",
 				"Puedes leer más a cerca de mejora la salud sexual en publicaciones como la siguiente: https://www.medicalnewstoday.com/articles/es/como-pueden-los-hombres-aumentar-su-rendimiento-sexual#trece-maneras-de-mejorar-el-desempeno-sexual"	
 			],
-			"2": [
+			"¿Que peligros existen relacionados a la actividad sexual, donde puedo aprender de este tema?": [
 				"Según la información que se puede encontrar en internet, la mayoría de peligros asociados provienen de tener relaciones sexuales sin preservativos.",
 				"También, es importante saber que cuando en la actividad sexual existe penetración vaginal, existe la probabilidad de que luego la mujer quede en embarazo. Usar uno o varios tipos de anticoncepción puede evitarlo.",
 				"Para que puedas aprender más a cerca de la sexualidad, puedes visitar páginas web como la de la organización Planned Parenthood, la cual ofrece una fuente amplia de información sobre sexualidad, aquí podrás aprender por medio de lecturas y videos sobre temas como la Orientación sexual, aborto y otros más."
 			],
-			"3": [
+			"¿Donde puedo solicitar una asesoría personalizada sobre algun tema de sexualidad?": [
 				"En el caso de Colombia:",
 				"Puedes contactar o solicitar los servicios de la organización ProFamilia: https://profamilia.org.co/",
 				"También puedes contactar a la organización Oriéntame: https://orientame.org.co/servicios-amigables-para-jovenes/",
@@ -67,7 +64,7 @@
 		}
 	},
 
-	"depresion": {
+	"Depresión": {
 		"prompts": [
 			[
 				"Primero, debes saber que existen algunos tipos diferentes de depresión, los cuales se presentan en nuestra vida por diversas razones.",
@@ -93,7 +90,7 @@
 		}
 	},
 
-	"vida": {
+	"Estilo de vida": {
 		"prompts": [
 			[
 				"Adoptar un estilo de vida saludable puede cambiar las emociones que experimentamos diariamente, yo te puedo ayudar dándote información al respecto",
@@ -127,7 +124,7 @@
 		]
 	},
 
-	"social": {
+	"Vida social": {
 		"prompts": [
 			[
 				"Quisiera comenzar haciéndote una pregunta, ¿qué tan satisfecho estás en este momento de tu vida con tus relaciones sociales?"
