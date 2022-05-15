@@ -2,6 +2,9 @@
 	"Ansiedad": {
 		"prompts": [
 			[
+				"Me alegra que quieras comenzar a aprender, para mejorar tu bienestar 😁)"
+			],
+			[
 				"Quizá lo has escuchado continuamente, pero ¿tienes una idea clara de lo que es la ansiedad?", 
 				"La ansiedad es catalogada según instituciones como Mayo Clinic como un desorden de salud mental." 
 				
@@ -27,7 +30,7 @@
 				"3. aislamiento social",
 				"4. padecimiento continuo de estrés\n",
 				"Si quieres conocer más sobre este tema, puedes visitar esta página, donde se ha extraído la información que te presenté:",
-				"https://www.mayoclinic.org/diseases-conditions/anxiety/symptoms-causes/syc-20350961\n",
+				"https://www.mayoclinic.org/diseases-conditions/anxiety/symptoms-causes/syc-20350961 , te voy a dejar el link en la sección de contenidos :D.",
 				"¿Te sentiste identificado?"
 			],
 			[
@@ -49,7 +52,7 @@
 		"prompts": [
 			[
 				"Un tema muy relevante para nuestra vida, sobre el cual debemos aprender es la sexualidad.",
-				"Entender cómo funcionan nuestros cuerpos puede prevenir consecuencias indeseadas y evitar enfermedades.",
+				"Entender cómo funcionan nuestros cuerpos puede prevenir consecuencias indeseadas y evitar enfermedades.\n",
 				"¿Que te quieres aprender esta vez?"
 			]
 		],
