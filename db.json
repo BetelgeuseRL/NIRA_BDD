@@ -16,7 +16,9 @@
 				"Si quieres conocer más, puedes revisar la pantalla de contenidos que te ofrezco :p"
 			],
 			[
-				"¿Te sentiste identificado?, ¿Quieres saber un poco de como puedes prevenir o controlar la ansiedad?"
+				"¿Te sentiste identificado?",
+				"Recuerda visitar la Sección de contenidos para acceder a más información",
+				 "¿Quieres saber un poco de como puedes prevenir o controlar la ansiedad?"
 			]
 		],
 		"extras": {
@@ -41,12 +43,12 @@
 			"¿Que hacer si soy sexualmente activo?": [
 				"Según un artículo publicado en la web de MedicalNewsToday, algunos consejos para quienes son sexualmente activos y quieren mejora su salud sexual son:",
 				"Hacer mas ejercicio, Intentar algo nuevo, Controlar ansiedad, Mantener una comunicación abierta con tu pareja",
-				"Siempre puedes ver mas en la pestaña de contenidos +u+"	
+				"Siempre puedes ver más en la pestaña de contenidos +u+"	
 			],
 			"¿Que peligros existen relacionados a la actividad sexual, donde puedo aprender de este tema?": [
 				"La mayoría de peligros asociados provienen de tener relaciones sexuales sin preservativos.",
 				"También, según mi búsqueda, veo que algo importante para saber es que cuando en la actividad sexual existe penetración vaginal, existe la probabilidad de que luego la mujer quede en embarazo. Usar uno o varios tipos de anticoncepción puede evitarlo.",
-				"Te dejo mas información en contenidos ;)"
+				"Te dejo más información en contenidos ;)"
 			],
 			"¿Donde puedo solicitar una asesoría personalizada sobre algun tema de sexualidad?": [
 				"En el caso de Colombia:",
@@ -99,7 +101,8 @@
 				"https://www.seguralia.com/blog/wp-content/uploads/2021/01/Consejos-para-empezar-a-hacer-ejercicio-610x1024.jpg",
 				"La meditación también es una actividad que trae beneficios a todas las áreas de nuestra salud. Según fuentes como mayoclinic, ayuda a reducir el estrés, reducir trastornos como la depresión, los problemas para dormir, el asma y la ansiedad. No solo esto, también hay diversos tipos de meditación y consejos para hacerlos, puedes leer más en el link que te dejo en 'contenidos'",
 				"Y quisiera también presentarte una infografía elaborada por Aprende Institute, en la que puedes ver algunos beneficios tanto a la salud física como mental:",
-				"https://i.pinimg.com/736x/86/ce/35/86ce35fc700b19800ff73adf7a8e227c.jpg"	
+				"https://i.pinimg.com/736x/86/ce/35/86ce35fc700b19800ff73adf7a8e227c.jpg",
+				"Puedes verlas en mejor calidad y leer más en la Sección de Contenidos en la parte superior del chat :3"	
 			]
 		]
 	},
@@ -107,11 +110,21 @@
 	"Vida social": {
 		"prompts": [
 			[
-				"Quisiera comenzar haciéndote una pregunta, ¿qué tan satisfecho estás en este momento de tu vida con tus relaciones sociales?"
+				"Quisiera comenzar haciéndote una pregunta para que puedas analizarla 30 segundos, ¿qué tan satisfecho/a estás en este momento de tu vida con tus relaciones sociales?"
+			],
+			[
+				"Independiente de lo que hayas pensado, debes saber que yo te puedo ayudar un poco a mejorar tu vida social, presentándote algunos consejos."
 			],
 			[
 				"Déjame presentarte consejos para mejorar tu interacción social o mantener relaciones sociales saludables y que te sientas satisfecho con ellas."
 
+			],
+			[
+				"Las habilidades sociales en las que todos deberíamos trabajar incluyen: Saber escuchar, Iniciar y mantener conversaciones, Hacer preguntas.",
+				"Dar las gracias, Presentarte y presentar a otras personas, Hacer un cumplido."
+			],
+			[
+				"¿Te ha parecido interesante?, te invito que visites la sección de contenidos para ver todo lo que tengo para contarte."
 			]
 		]
 	}
