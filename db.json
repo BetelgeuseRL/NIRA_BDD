@@ -86,15 +86,11 @@
 	"Estilo de vida": {
 		"prompts": [
 			[
-				"Adoptar un estilo de vida saludable puede cambiar las emociones que experimentamos diariamente, yo te puedo ayudar dándote información al respecto"
-			],
-			[
+				"Adoptar un estilo de vida saludable puede cambiar las emociones que experimentamos diariamente, yo te puedo ayudar dándote información al respecto",
 				"Llevar un estilo de vida saludable es la adopción de un conjunto de hábitos que buscan mejorar nuestra salud física, mental y emocional, lo cual es buenísimo, ¿no?",
 				"Según la organización MedlinePlus, los siguientes hábitos contribuyen a que una persona viva y se sienta mejor:",
 				"Hacer ejercicio en forma regular y controlar el peso, no fumar, NO tomar mucho alcohol y evitarlo por completo en caso de tener antecedentes de alcoholismo, utilizar los medicamentos recetados por su proveedor de atención médica según las instrucciones, consumir una dieta saludable y equilibrada, cuidar los dientes, controlar la hipertensión arterial y seguir buenas practicas de seguridad",
-				"Si quieres leer más, revisa la pestaña de contenidos"
-			],
-			[
+				"Si quieres leer más, revisa la pestaña de contenidos",
 				"Según la enciclopedia médica de MedlinePlus, en la sección de vida saludable, El ejercicio es un factor clave para mantenerse saludable. El ejercicio fortalece los huesos, el corazón y los pulmones, tonifica los músculos, mejora la vitalidad, alivia la depresión y ayuda a conciliar mejor el sueño.",
 				"Esta app tambien te puede ayudar a mantenerte en forma! Explora nuestras otras funciones",
 				"Aquí tienes algunos tips para tener en cuenta al hacer ejercicio, es una infografía elaborada por la compañía seguralia.",
@@ -110,20 +106,11 @@
 	"Vida social": {
 		"prompts": [
 			[
-				"Quisiera comenzar haciéndote una pregunta para que puedas analizarla 30 segundos, ¿qué tan satisfecho/a estás en este momento de tu vida con tus relaciones sociales?"
-			],
-			[
-				"Independiente de lo que hayas pensado, debes saber que yo te puedo ayudar un poco a mejorar tu vida social, presentándote algunos consejos."
-			],
-			[
-				"Déjame presentarte consejos para mejorar tu interacción social o mantener relaciones sociales saludables y que te sientas satisfecho con ellas."
-
-			],
-			[
+				"Quisiera comenzar haciéndote una pregunta para que puedas analizarla 30 segundos, ¿qué tan satisfecho/a estás en este momento de tu vida con tus relaciones sociales?",
+				"Independiente de lo que hayas pensado, debes saber que yo te puedo ayudar un poco a mejorar tu vida social, presentándote algunos consejos.",
+				"Déjame presentarte consejos para mejorar tu interacción social o mantener relaciones sociales saludables y que te sientas satisfecho con ellas.",
 				"Las habilidades sociales en las que todos deberíamos trabajar incluyen: Saber escuchar, Iniciar y mantener conversaciones, Hacer preguntas.",
-				"Dar las gracias, Presentarte y presentar a otras personas, Hacer un cumplido."
-			],
-			[
+				"Dar las gracias, Presentarte y presentar a otras personas, Hacer un cumplido.",
 				"¿Te ha parecido interesante?, te invito que visites la sección de contenidos para ver todo lo que tengo para contarte."
 			]
 		]
